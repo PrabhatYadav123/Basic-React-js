@@ -1,0 +1,15 @@
+.Content{
+    background-color: coral;
+    text-align: center;
+}
+.Btn{
+cursor: pointer;
+padding:5px 15px;
+margin: 10px 0px;
+border:2px solid black;
+border-radius: 10px;
+}
+.Btn:hover{
+    color:black;
+    background-color: rgb(196, 180, 180);
+}

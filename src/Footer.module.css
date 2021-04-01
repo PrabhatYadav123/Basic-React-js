@@ -1,0 +1,9 @@
+.Footer{
+    background-color: rgb(53, 47, 47);
+    color:white;
+    padding:12px;
+  text-align: center;
+}
+.UnOrdered{
+    list-style: none;
+}
